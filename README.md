@@ -20,3 +20,6 @@ Working with Git
  
  https://git-scm.com/book/en/v2/Distributed-Git-Distributed-Workflows
 
+git GUI:
+
+http://www.collab.net/products/giteye
