@@ -1,0 +1,40 @@
+Eines Informàtiques Avançades 				       Version 1 (1-3-2016)
+
+Molecular Dynamics Simulation of a Van der Waals Gas
+Aim:
+ To learn how to work in group around a computational science project by using all the learned tools during the course.
+Scientific goal:
+Build a simple molecular dynamics program to deal with a Van der Waals gas of particles. All students have to perform a collaborative work to get a working program code. Thus, all the tasks involved in the implementation of this program have to be decided accordingly.
+Minimum tasks to be implemented:
+-	Initial state: Method that will set all the initial particles within a periodical box and assign its initial state.
+-	Boundary conditions: Method to assign particle coordinates within periodical box
+-	Forces: Method that calculates the van der Waals forces at each particle
+-	Integration: Method to integrate Newton’s equations
+-	Statistics: Method to determine all averaged values of selected variables during simulation trajectory and also showing its final values at the end of the trajectory
+-	Visualization of results: Post-processing method that will deal with obtained data from a given trajectory and will allow to show evolution of the different variables involved in the molecular dynamics and other statistics at the highest level
+Minimum tools to be used:
+-	Git / GitHub
+-	Makefiles
+-	MPI programming
+Schedule and Deliverables:
+-	April 18th : Project presentation (1st day of EIA classes)
+-	April 20th : Teacher supervision 
+-	April 27th : Task identification (Main project structure and implementation schedule)
+-	May 4th : Repository creation and tasks assignation (individual and collective responsibilities)
+-	May 11th : Teacher supervision
+-	May 18th : Final code implementation (only sequential execution, without results visualization tasks)
+-	May 25th : Visualization tasks implementation and identification of code section to parallelize (identify methodology and algorithms)
+-	June 1st : Final code implementation (whole project including parallel execution and visualization tasks)
+-	June 10th : Project memory delivery 
+-	June 17th : Project presentation (Power Point transparencies)
+Memory Format:
+-	Text: It should be included all used algorithms explanation, test cases, and some data analysis. Parts of final code implementation should be included only in case that is needed to clarify some implementation details, i.e. MPI functions, etc.
+The manuscript will be delivered in PDF format
+-	Code: The final code implementation, Makefiles, and instructions to compile and execute should be delivered in a tar.gz file.
+All subroutines have to be identified with the corresponding author. In case of more than one author, the individual author responsibilities have to be shown
+All the code has to be properly documented (adequate amount of comments)
+-	Deliverable: Project memory as a PDF document and a tar.gz file with all the code and instructions.
+Presentation:
+-	Format: Prezi, PowerPoint, PDF or similar
+-	Responsibilities: Any student will prepare his/her own transparencies to be exposed in a global and unique presentation
+-	Time: 30 minutes of total presentation followed by 15-30 minutes of teacher questions    
