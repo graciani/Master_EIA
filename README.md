@@ -23,3 +23,10 @@ Working with Git
 git GUI:
 
 http://www.collab.net/products/giteye
+
+Bash Shell:
+
+ http://swcarpentry.github.io/shell-novice/index.html
+ 
+ (Start from Loops)
+ 
