@@ -30,3 +30,7 @@ Bash Shell:
  
  (Start from Loops)
  
+Makefiles (automating actions):
+
+ http://swcarpentry.github.io/make-novice/
+ 
